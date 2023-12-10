@@ -14,7 +14,7 @@ Before you begin, make sure you have the following installed:
 
 ## Demo Video
 
-[![Object Detection and Tracking Demo](/Object-Detection-and-Tracking-LUS-Signs/DeepSORT/output_RDS.mp4)]
+[![Object Detection and Tracking Demo](/DeepSORT/output_RDS.mp4)]
 
 Click on the image above to watch a demo of the object detection and tracking system in action.
 

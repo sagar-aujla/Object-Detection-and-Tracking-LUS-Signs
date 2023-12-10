@@ -13,9 +13,9 @@ Before you begin, make sure you have the following installed:
 - DeepSORT
 
 ## Demo 
-![image](https://github.com/sagar-aujla/Object-Detection-and-Tracking-LUS-Signs/assets/133696043/aa737655-4333-4de8-8c9f-4bcf7a59b871)
+![image](https://github.com/sagar-aujla/Object-Detection-and-Tracking-LUS-Signs/assets/133696043/6f9b288d-535d-4745-905a-6fa136637937)
 
-[![Object Detection and Tracking Demo](/DeepSORT/output_TTN.mp4)]
+[![Object Detection and Tracking Demo](/DeepSORT/output_Normal.mp4)]
 
 Click on the image above to download a video of the object detection and tracking system in action.
 

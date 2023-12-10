@@ -1,0 +1,6 @@
+Regular_Pleural_Line
+Irregular_Pleural_Line
+Thick_Pleural_Line
+A_line
+Consolidation
+Col_B_Line

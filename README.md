@@ -12,11 +12,12 @@ Before you begin, make sure you have the following installed:
 - YOLOv4
 - DeepSORT
 
-## Demo Video
+## Demo 
+![image](https://github.com/sagar-aujla/Object-Detection-and-Tracking-LUS-Signs/assets/133696043/aa737655-4333-4de8-8c9f-4bcf7a59b871)
 
-[![Object Detection and Tracking Demo](/DeepSORT/output_RDS.mp4)]
+[![Object Detection and Tracking Demo](/DeepSORT/output_TTN.mp4)]
 
-Click on the image above to watch a demo of the object detection and tracking system in action.
+Click on the image above to download a video of the object detection and tracking system in action.
 
 ## References
 - For YOLOv4 customization, refer to the [YOLO GitHub repository](https://github.com/AlexeyAB/darknet).

@@ -17,7 +17,7 @@ Before you begin, make sure you have the following installed:
 
 [![Object Detection and Tracking Demo](/DeepSORT/output_Normal.mp4)]
 
-Click on the image above to download a video of the object detection and tracking system in action.
+Click on the link above to download a video of the object detection and tracking system in action.
 
 ## References
 - For YOLOv4 customization, refer to the [YOLO GitHub repository](https://github.com/AlexeyAB/darknet).

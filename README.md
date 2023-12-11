@@ -2,7 +2,7 @@
 
 This repository demonstrates a simple implementation of object detection and tracking using YOLOv4 for object detection and DeepSORT for tracking lung ultrasound signs. This system can be used for real-time tracking of objects in lung ultrasound videos.
 
-## Prerequisites
+## Requirements
 
 Before you begin, make sure you have the following installed:
 
@@ -13,9 +13,9 @@ Before you begin, make sure you have the following installed:
 - DeepSORT
 
 ## Demo 
-![image](https://github.com/sagar-aujla/Object-Detection-and-Tracking-LUS-Signs/assets/133696043/6f9b288d-535d-4745-905a-6fa136637937)
+![LUS tracking](https://github.com/sagar-aujla/Object-Detection-and-Tracking-LUS-Signs/assets/133696043/092250c5-2046-4849-8165-4a6907350b49)
 
-[![Object Detection and Tracking Demo](/DeepSORT/output_Normal.mp4)]
+[[Object Detection and Tracking Demo](/DeepSORT/output_TTN.mp4)]
 
 Click on the link above to download a video of the object detection and tracking system in action.
 
